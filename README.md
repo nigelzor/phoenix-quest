@@ -1,4 +1,4 @@
-# Phoenix Quest
+# <img src="./pq4.png" style="vertical-align: middle;"> Phoenix Quest
 
 Phoenix Quest was an educational game produced by UBC's EGEMS lab in the late 1990s. It's pretty much disappeared from the modern internet, but the Internet Archive has a copy of [their old website](https://web.archive.org/web/20151025204054/http://www.cs.ubc.ca/labs/egems/phoenixquest.html).
 
