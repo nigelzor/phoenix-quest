@@ -8,11 +8,16 @@ Phoenix Quest was an educational game produced by UBC's EGEMS lab in the late 19
 
 While their site was still up, it had this message:
 
->  Sorry, we are no longer able to mail out CDs of our games. Our games have not been updated since 2001 but if you wish to try out Phoenix Quest, please download our PQ5.zip file and see the README.txt file for further instructions. 
+> Sorry, we are no longer able to mail out CDs of our games. Our games have not been updated since 2001 but if you wish to try out Phoenix Quest, please download our PQ5.zip file and see the README.txt file for further instructions.
 
-The Internet Archive didn't save a copy of that file, but I did. 
+The Internet Archive didn't save a copy of that file, but I did.
 
 ## Downloads
+
  - [`PQ5.zip`](https://github.com/nigelzor/phoenix-quest/releases/download/archives/pq5.zip) (58 MB) the last version made available on the EGEMS website. Build date December 27, 2002.
- - [`pq4.rar`](https://github.com/nigelzor/phoenix-quest/releases/download/archives/pq4.rar) (6.6 MB) "Version 4, Windows, no sound" is an archive I created. Build date October 17, 1997.
+ - [`pq4.rar`](https://github.com/nigelzor/phoenix-quest/releases/download/archives/pq4.rar) (6.6 MB) "Version 4, Windows, no sound" is an archive I created from the CD below. Build date October 17, 1997.
  - [`pq4.iso`](https://github.com/nigelzor/phoenix-quest/releases/download/archives/pq4.iso) (319 MB) the CD I acquired in elementary school. It includes builds for both Windows and Classic Mac OS.
+
+## Links
+
+ - [EGEMS Homepage](https://web.archive.org/web/20170607192028/http://www.cs.ubc.ca/labs/egems/index.html) (Archived)
