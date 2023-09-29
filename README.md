@@ -22,4 +22,4 @@ The Internet Archive didn't save a copy of that file, but I did.
 
 - [EGEMS Homepage](https://web.archive.org/web/20170607192028/http://www.cs.ubc.ca/labs/egems/index.html) (Archived, 2017)
 - [EGEMS Homepage](https://web.archive.org/web/20011212153935/http://taz.cs.ubc.ca:80/egems/home.html) (Archived, 2001)
-- [Phoenix Quest: lessons in developing an educational computer game for girls ... and boys.](https://web.archive.org/web/20020118040658fw_/http://taz.cs.ubc.ca/egems/papers/ICMTM96/ICMTM96.html) Klawe, M., Westrom, M., Davidson, K., Super, S. (1996)
+- [Phoenix Quest: lessons in developing an educational computer game for girls ... and boys.](https://web.archive.org/web/20020118040658fw_/http://taz.cs.ubc.ca/egems/papers/ICMTM96/ICMTM96.html) Klawe, M., Westrom, M., Davidson, K., Super, D. (1996)
